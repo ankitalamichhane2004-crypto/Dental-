@@ -926,8 +926,5 @@ Copyright © 2021 name - All rights reserved
 </div>
 </div>
 </footer>
-
-
-
 </body>
 </html>
